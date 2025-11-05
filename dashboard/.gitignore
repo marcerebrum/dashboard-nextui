@@ -25,3 +25,8 @@ logs
 
 # VSC
 .history
+
+# Removendo pastas específicas do controle de versão
+app3/
+barbearia/
+landpage_data7/
